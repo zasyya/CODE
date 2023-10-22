@@ -62,4 +62,4 @@ print(secret_function(1, 2))
 print(secret_function("Merhaba, ", "Dünya!"))
 
 
-client.run("MTE2MzkwODU1MDAyMDU4MzUzNA.GaGjOd.JzpGZeHEQpB3h68dJtdQ4T5d3q2ESF32j1MVBk")
+bot token
